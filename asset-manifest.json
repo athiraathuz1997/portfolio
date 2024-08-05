@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/athiraathuz1997/portfolio.git/static/css/main.b0f4eb68.css",
+    "main.js": "/athiraathuz1997/portfolio.git/static/js/main.83ce2450.js",
+    "static/js/453.906b0208.chunk.js": "/athiraathuz1997/portfolio.git/static/js/453.906b0208.chunk.js",
+    "static/media/AthiraProfile.svg": "/athiraathuz1997/portfolio.git/static/media/AthiraProfile.85a9f7b81ef79c7876e6c83084bb87a5.svg",
+    "static/media/BarberProject.svg": "/athiraathuz1997/portfolio.git/static/media/BarberProject.9533a316d654b44b31f94a20713fbc5c.svg",
+    "static/media/project_2.svg": "/athiraathuz1997/portfolio.git/static/media/project_2.d4cfcd14acd5cee55afc554302820311.svg",
+    "static/media/project_3.svg": "/athiraathuz1997/portfolio.git/static/media/project_3.3087529ef25ee7c4166a13804211531d.svg",
+    "static/media/project_6.svg": "/athiraathuz1997/portfolio.git/static/media/project_6.be2f7d8a782d18d41b915d0854cd606d.svg",
+    "static/media/project_5.svg": "/athiraathuz1997/portfolio.git/static/media/project_5.934dc5a4dea16b9ff5868c97087fba08.svg",
+    "static/media/project_4.svg": "/athiraathuz1997/portfolio.git/static/media/project_4.d637e3891c75d2df13dbc08b6350e6b5.svg",
+    "static/media/call_icon.svg": "/athiraathuz1997/portfolio.git/static/media/call_icon.2217d95fcbab55eab7307b4929ec13e0.svg",
+    "static/media/Athira.svg": "/athiraathuz1997/portfolio.git/static/media/Athira.95be073f22dc6bc89e824e88f2b2939f.svg",
+    "static/media/footer_logo.svg": "/athiraathuz1997/portfolio.git/static/media/footer_logo.fd98d9d71997f777a835e0dfa5b8be4a.svg",
+    "static/media/user_icon.svg": "/athiraathuz1997/portfolio.git/static/media/user_icon.ace2e8ee2edf77ae00efb8133c51a22e.svg",
+    "static/media/mail_icon.svg": "/athiraathuz1997/portfolio.git/static/media/mail_icon.849e3ccbdf35897ce42cc41c4eb1aaa2.svg",
+    "index.html": "/athiraathuz1997/portfolio.git/index.html",
+    "static/media/menu_close.svg": "/athiraathuz1997/portfolio.git/static/media/menu_close.d177a733d1fa594adde48c1575c6a5b2.svg",
+    "static/media/nav_underline.svg": "/athiraathuz1997/portfolio.git/static/media/nav_underline.cebecab7a0fc5359eb0de244beef527f.svg",
+    "static/media/theme_pattern.svg": "/athiraathuz1997/portfolio.git/static/media/theme_pattern.0093952af51a14970103fc40554a0f97.svg",
+    "static/media/location_icon.svg": "/athiraathuz1997/portfolio.git/static/media/location_icon.a412ca40d688a4e6ab42b03776abefc1.svg",
+    "static/media/arrow_icon.svg": "/athiraathuz1997/portfolio.git/static/media/arrow_icon.f169ae5deeae7412caddb7034d295d3b.svg",
+    "static/media/menu_open.svg": "/athiraathuz1997/portfolio.git/static/media/menu_open.6cc3b93d9911bae382a7fa6bc30ad1eb.svg",
+    "main.b0f4eb68.css.map": "/athiraathuz1997/portfolio.git/static/css/main.b0f4eb68.css.map",
+    "main.83ce2450.js.map": "/athiraathuz1997/portfolio.git/static/js/main.83ce2450.js.map",
+    "453.906b0208.chunk.js.map": "/athiraathuz1997/portfolio.git/static/js/453.906b0208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0f4eb68.css",
+    "static/js/main.83ce2450.js"
+  ]
+}
