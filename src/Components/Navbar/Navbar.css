@@ -81,3 +81,14 @@
         gap :20px
     }
 }
+.navbarLogo-name{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.navunderline-Style{
+    position: absolute;
+    z-index: -1;
+    top: 60px;
+    left: 235px;
+}
